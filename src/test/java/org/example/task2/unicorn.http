@@ -1,0 +1,13 @@
+### GET request to example server
+GET https://examples.http-client.intellij.net/get
+    ?generated-in=IntelliJ IDEA
+
+###
+POST https://crudcrud.com/api/5b9bab371ccc4ea2ae23b89d91337d6f/unicorn
+Content-Type: application/json
+
+{
+  "name": "goldy",
+  "tail_color": "pink"
+}
+
